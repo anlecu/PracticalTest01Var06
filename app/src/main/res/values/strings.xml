@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest01Var06</string>
+    <string name="number">Number</string>
+    <string name="_0">0</string>
+    <string name="play">Play</string>
+    <string name="generate">generate</string>
+    <string name="guess">guess</string>
+    <string name="check">check</string>
+    <string name="back">back</string>
+    <string name="score">Score</string>
+</resources>
